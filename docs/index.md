@@ -1,6 +1,7 @@
----
-template: home.html
-title: Material for MkDocs
+﻿---
+title: Главная
 ---
 
-Welcome to Material for MkDocs.
+# Моя курсовая работа
+
+Добро пожаловать на сайт моей курсовой работы.
