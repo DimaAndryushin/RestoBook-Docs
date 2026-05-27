@@ -3,6 +3,7 @@ theme:
   name: material
   language: ru
 nav:
+  - Главная: index.md
   - Введение: introduction.md
   - Глава 1. Теоретическая часть: chapter1.md
   - Глава 2. Практическая часть: chapter2.md
