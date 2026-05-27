@@ -2,7 +2,7 @@
 theme:
   name: material
   language: ru
-  **custom_dir: overrides**  # <-- ЭТА СТРОЧКА УКАЗЫВАЕТ НА ПАПКУ С КАСТОМНЫМИ ШАБЛОНАМИ
+  **custom_dir: overrides**  
 nav:
   - Главная: index.md
   - Введение: introduction.md
