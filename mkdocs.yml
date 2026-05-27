@@ -1,7 +1,7 @@
-﻿site_name:  Разработка и проектирование архитектуры и информационных потоков системы для автоматизации оформления заказов на роботизированном предприятии общественного питания.
+﻿site_name: Разработка и проектирование архитектуры и информационных потоков системы для автоматизации оформления заказов на роботизированном предприятии общественного питания.
 theme:
   name: material
-  language: ru  
+  language: ru
 nav:
   - Главная: index.md
   - Введение: introduction.md
@@ -9,5 +9,14 @@ nav:
   - Глава 2. Практическая часть: chapter2.md
   - Заключение: conclusion.md
   - Список литературы: literature.md
-extra_css:
-  - stylesheets/extra.css
+extra_head:
+  - <style>
+      .md-header__topic {
+        white-space: normal !important;
+        word-break: break-word;
+        max-width: 80vw;
+      }
+      .md-header__topic .md-ellipsis {
+        white-space: normal !important;
+      }
+    </style>
