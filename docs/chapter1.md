@@ -12,4 +12,4 @@
 - Ресторан
 - Пользователь
 
-![](RestoBook-Docs/diagrams/class.svg)
+![](diagrams/class.svg)
