@@ -1,1 +1,8 @@
-
+.md-header__topic {
+  white-space: normal !important;
+  word-break: break-word;
+  max-width: 80vw;
+}
+.md-header__topic .md-ellipsis {
+  white-space: normal !important;
+}
