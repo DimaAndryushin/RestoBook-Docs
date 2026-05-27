@@ -9,3 +9,5 @@ nav:
   - Глава 2. Практическая часть: chapter2.md
   - Заключение: conclusion.md
   - Список литературы: literature.md
+extra_css:
+  - stylesheets/extra.css
