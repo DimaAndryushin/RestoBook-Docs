@@ -9,3 +9,9 @@
   flex-wrap: wrap !important;
   max-width: 90vw !important;
 }
+.md-header .md-header__inner {
+  flex-wrap: wrap !important;
+}
+.md-header__topic:first-child {
+  flex: 1 1 auto !important;
+}
